@@ -22,7 +22,8 @@ python/
 ├── coupang/                 # selenium을 이용한 쿠팡 홈페이지 테스트 자동화 실습
 ├── elice/                   # 엘리스 강의 실습 자료
 ├── workspace/               # 개인 작업 공간 및 다양한 실습
-├── 파이썬 업무 자동화/         # 업무 자동화 실습을 위한 스크립트
+├── 파이썬 업무 자동화/      # 업무 자동화 실습을 위한 스크립트
+├── JMeter/                  # 성능테스트 실습 자료
 ```
 
 ---
@@ -36,19 +37,12 @@ python/
 
 ## 🔍 2차 프로젝트 기술 문서
 
-2차 프로젝트를 진행하며 DB 설계, API 테스트, 성능 테스트를 깊이 있게 학습하고 문서화했습니다.
-
-* **데이터베이스(DB) 생성 자동화 문서화:**
-
-  * 📘 [DB 설계 노션 문서](https://detailed-recorder-6cd.notion.site/2-DB-1f1b03b4e0dd8062bc4cf9e4ef3c3768?pvs=4)
-
-* **API 테스트 및 Jenkins CI/CD 활용:**
-
-  * 📙 [API 테스트와 Jenkins 활용 노션 문서](https://detailed-recorder-6cd.notion.site/2-api-jenkins-1f0b03b4e0dd80248e16faef81c79567?pvs=4)
+2차 프로젝트를 진행하며 성능 테스트를 깊이 있게 학습하고 문서화했습니다.
 
 * **Jmeter를 활용한 성능 테스트:**
 
-  * 📕 [Jmeter 성능 테스트 GUI 활용 문서](https://detailed-recorder-6cd.notion.site/2-Jmeter-GUI-1f3b03b4e0dd8080a8b6f64dd5bf6d67?pvs=4)
+  * 📕 [Jmeter 성능 테스트 GUI,CLI 활용 문서](https://detailed-recorder-6cd.notion.site/2-Jmeter-1f3b03b4e0dd8080a8b6f64dd5bf6d67?pvs=4)
+  * 📕 [테스트 유형별 Jmeter Thread Group 설정](https://detailed-recorder-6cd.notion.site/2-Jmeter-Thread-Group-1f3b03b4e0dd809e9641c4795b24e5e1?pvs=4)
 
 ---
 
