@@ -4,13 +4,6 @@
 
 ---
 
-## 📌 주간 스터디 계획 및 협업 관리
-
-* **도구 활용:** Jira
-* 주차별로 세부 학습 목표를 설정하고 진행 사항을 팀원들과 투명하게 공유하며 효율적으로 협업했습니다.
-* 📖 [주차별 스터디 계획 관리 (Jira)](https://eliceqa.atlassian.net/wiki/x/DIAI)
-
----
 
 ## 💻 Python 프로그래밍 학습 및 실습
 
@@ -29,10 +22,15 @@ python/
 
 ---
 
-## 🌐 자연어로 코드 로직 작성 연습
+## 📝 QA/테스트 학습 블로그 (초기 단계)
 
-* 쿠팡 홈페이지를 주제로, 자연어를 이용해 코드 로직을 구성하는 연습을 수행했습니다.
-* 📗 [자연어 코드 로직 연습 노션 문서](https://detailed-recorder-6cd.notion.site/1acb03b4e0dd80aaa3a3cc20eef4eef8?pvs=4)
+아직 블로그에 정리된 내용은 많지 않지만,  
+- 파이썬 기초 학습,  
+- 성능테스트 유형 정리  
+등, 프로젝트와 병행하며 학습한 내용을 기록하기 시작했습니다.
+
+앞으로 실전 QA/테스트 사례, 자동화 도구 활용 등 다양한 내용을 꾸준히 업데이트할 예정입니다.
+* 📗 [티스토리 블로그](https://sey0203.tistory.com/)
 
 ---
 
@@ -44,6 +42,22 @@ python/
 
   * 📕 [Jmeter 성능 테스트 GUI,CLI 활용 문서](https://detailed-recorder-6cd.notion.site/2-Jmeter-1f3b03b4e0dd8080a8b6f64dd5bf6d67?pvs=4)
   * 📕 [테스트 유형별 Jmeter Thread Group 설정](https://detailed-recorder-6cd.notion.site/2-Jmeter-Thread-Group-1f3b03b4e0dd809e9641c4795b24e5e1?pvs=4)
+
+---
+
+
+## 🌐 자연어로 코드 로직 작성 연습
+
+* 쿠팡 홈페이지를 주제로, 자연어를 이용해 코드 로직을 구성하는 연습을 수행했습니다.
+* 📗 [자연어 코드 로직 연습 노션 문서](https://detailed-recorder-6cd.notion.site/1acb03b4e0dd80aaa3a3cc20eef4eef8?pvs=4)
+
+---
+
+## 📌 주간 스터디 계획 및 협업 관리
+
+* **도구 활용:** Jira
+* 주차별로 세부 학습 목표를 설정하고 진행 사항을 팀원들과 투명하게 공유하며 효율적으로 협업했습니다.
+* 📖 [주차별 스터디 계획 관리 (Jira)](https://eliceqa.atlassian.net/wiki/x/DIAI)
 
 ---
 
