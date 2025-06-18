@@ -24,12 +24,12 @@ python/
 
 ## 🔍 2차 프로젝트 기술 문서
 
-2차 프로젝트를 진행하며 성능 테스트를 깊이 있게 학습하고 문서화했습니다.
+2차 프로젝트를 진행하며 성능 테스트를 깊이 있게 학습하고 제가 직접 운영하는 블로그에 문서화했습니다.
 
 * **Jmeter를 활용한 성능 테스트:**
 
-  * 📕 [Jmeter 성능 테스트 GUI,CLI 활용 문서](https://detailed-recorder-6cd.notion.site/2-Jmeter-1f3b03b4e0dd8080a8b6f64dd5bf6d67?pvs=4)
-  * 📕 [테스트 유형별 Jmeter Thread Group 설정](https://detailed-recorder-6cd.notion.site/2-Jmeter-Thread-Group-1f3b03b4e0dd809e9641c4795b24e5e1?pvs=4)
+  * 📕 [성능테스트 유형](https://sey0203.tistory.com/9)
+  * 📕 [Jmeter GUI,CLI 활용 문서](https://sey0203.tistory.com/10)
 
 ---
 
@@ -41,12 +41,5 @@ python/
 
 ---
 
-## 📌 주간 스터디 계획 및 협업 관리
-
-* **도구 활용:** Jira
-* 주차별로 세부 학습 목표를 설정하고 진행 사항을 팀원들과 투명하게 공유하며 효율적으로 협업했습니다.
-* 📖 [주차별 스터디 계획 관리 (Jira)](https://eliceqa.atlassian.net/wiki/x/DIAI)
-
----
 
 감사합니다!
