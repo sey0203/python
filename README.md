@@ -2,8 +2,14 @@
 
 안녕하세요! 소프트웨어 QA 엔지니어를 목표로 다양한 실무 중심의 프로젝트와 학습 활동을 수행한 경험을 담은 포트폴리오입니다. 아래의 각 항목에서 제가 직접 학습하고 실습한 내용을 확인하실 수 있습니다.
 
+Last Updated: 2026.05
 ---
 
+## 🔍 Direct Links to Artifacts
+📄 Test Case Design: [테스트 케이스 설계 샘플](https://docs.google.com/spreadsheets/d/1gxFloZAx1BuC09nMWU0AUo6_JN0jAu6TgADg4PZYPLo/edit?usp=sharing)
+✍️ Technical Blog: [QA 기술/지식 학습 블로그](https://sey0203.tistory.com/)
+🚀 Latest Study: [n8n 기반 AI 업무 자동화 에이전트 학습](https://drive.google.com/file/d/1-IjiRcmJaCUimjg48ungbQB3w7qqv4zo/view?usp=drive_link)
+---
 
 ## 💻 Python 프로그래밍 학습 및 실습
 
@@ -19,25 +25,6 @@ python/
 ├── workspace/               # 개인 작업 공간 및 다양한 실습
 ├── 파이썬 업무 자동화/      # 업무 자동화 실습을 위한 스크립트
 ```
-
----
-
-## 🔍 2차 프로젝트 기술 문서
-
-2차 프로젝트를 진행하며 성능 테스트를 깊이 있게 학습하고 제가 직접 운영하는 블로그에 문서화했습니다.
-
-* **Jmeter를 활용한 성능 테스트:**
-
-  * 📕 [성능테스트 유형](https://sey0203.tistory.com/9)
-  * 📕 [Jmeter GUI,CLI 활용 문서](https://sey0203.tistory.com/10)
-
----
-
-
-## 🌐 자연어로 코드 로직 작성 연습
-
-* 쿠팡 홈페이지를 주제로, 자연어를 이용해 코드 로직을 구성하는 연습을 수행했습니다.
-* 📗 [자연어 코드 로직 연습 노션 문서](https://detailed-recorder-6cd.notion.site/1acb03b4e0dd80aaa3a3cc20eef4eef8?pvs=4)
 
 ---
 
