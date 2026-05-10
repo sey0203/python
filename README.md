@@ -3,12 +3,11 @@
 안녕하세요! 소프트웨어 QA 엔지니어를 목표로 다양한 실무 중심의 프로젝트와 학습 활동을 수행한 경험을 담은 포트폴리오입니다. 아래의 각 항목에서 제가 직접 학습하고 실습한 내용을 확인하실 수 있습니다.
 
 Last Updated: 2026.05
----
-
-## 🔍 Direct Links to Artifacts
-📄 Test Case Design: [테스트 케이스 설계 샘플](https://docs.google.com/spreadsheets/d/1gxFloZAx1BuC09nMWU0AUo6_JN0jAu6TgADg4PZYPLo/edit?usp=sharing)
-✍️ Technical Blog: [QA 기술/지식 학습 블로그](https://sey0203.tistory.com/)
-🚀 Latest Study: [n8n 기반 AI 업무 자동화 에이전트 학습](https://drive.google.com/file/d/1-IjiRcmJaCUimjg48ungbQB3w7qqv4zo/view?usp=drive_link)
+---   
+## 🔍 Direct Links to Artifacts   
+####📄 Test Case Design: [테스트 케이스 설계 샘플](https://docs.google.com/spreadsheets/d/1gxFloZAx1BuC09nMWU0AUo6_JN0jAu6TgADg4PZYPLo/edit?usp=sharing)   
+####✍️ Technical Blog: [QA 기술/지식 학습 블로그](https://sey0203.tistory.com/)   
+####🚀 Latest Study: [n8n 기반 AI 업무 자동화 에이전트 학습](https://drive.google.com/file/d/1-IjiRcmJaCUimjg48ungbQB3w7qqv4zo/view?usp=drive_link)   
 ---
 
 ## 💻 Python 프로그래밍 학습 및 실습
